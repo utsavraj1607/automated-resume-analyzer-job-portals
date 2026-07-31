@@ -1,0 +1,58 @@
+{
+  "Programming Languages": [
+    "Python", "Java", "C++", "C", "C#", "JavaScript", "TypeScript", "Go", "Golang",
+    "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "MATLAB", "Perl",
+    "Dart", "Objective-C", "Shell Scripting", "Bash", "SQL", "PL/SQL"
+  ],
+  "Web Development": [
+    "HTML", "HTML5", "CSS", "CSS3", "React", "React.js", "ReactJS", "Angular",
+    "AngularJS", "Vue", "Vue.js", "VueJS", "Node.js", "NodeJS", "Express.js",
+    "Express", "Django", "Flask", "FastAPI", "Spring Boot", "Spring", "ASP.NET",
+    "Next.js", "NextJS", "Redux", "jQuery", "Bootstrap", "Tailwind CSS",
+    "Tailwind", "REST API", "RESTful API", "GraphQL", "WebSockets", "Webpack"
+  ],
+  "Data Science & Machine Learning": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing", "NLP",
+    "Computer Vision", "Data Science", "Data Analysis", "Data Analytics",
+    "Statistics", "Predictive Modeling", "Neural Networks", "TensorFlow",
+    "PyTorch", "Keras", "scikit-learn", "sklearn", "Pandas", "NumPy", "SciPy",
+    "spaCy", "NLTK", "HuggingFace", "Transformers", "OpenCV", "XGBoost",
+    "LightGBM", "Matplotlib", "Seaborn", "Plotly", "Reinforcement Learning",
+    "Named Entity Recognition", "NER", "Text Mining", "Feature Engineering",
+    "Time Series Analysis", "A/B Testing", "Regression", "Classification",
+    "Clustering", "Generative AI", "LLM", "Large Language Models"
+  ],
+  "Databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle", "Microsoft SQL Server",
+    "SQL Server", "Redis", "Cassandra", "DynamoDB", "Firebase", "Elasticsearch",
+    "Neo4j", "MariaDB", "NoSQL"
+  ],
+  "Cloud & DevOps": [
+    "AWS", "Amazon Web Services", "Azure", "Microsoft Azure", "Google Cloud",
+    "GCP", "Google Cloud Platform", "Docker", "Kubernetes", "Jenkins",
+    "CI/CD", "Terraform", "Ansible", "Git", "GitHub", "GitLab", "Bitbucket",
+    "Linux", "Unix", "Nginx", "Apache", "Heroku", "Vercel", "Netlify",
+    "Microservices", "Serverless"
+  ],
+  "Tools & Platforms": [
+    "Jira", "Confluence", "Trello", "Slack", "Postman", "VS Code",
+    "Visual Studio Code", "PyCharm", "IntelliJ", "Eclipse", "Jupyter",
+    "Jupyter Notebook", "Excel", "Microsoft Excel", "Power BI", "Tableau",
+    "Google Analytics", "Figma", "Adobe Photoshop", "Selenium", "pytest",
+    "JUnit", "Streamlit"
+  ],
+  "Concepts & Methodologies": [
+    "Data Structures", "Algorithms", "Object-Oriented Programming", "OOP",
+    "Agile", "Scrum", "Kanban", "Design Patterns", "System Design",
+    "Software Development Life Cycle", "SDLC", "Test Driven Development", "TDD",
+    "API Development", "Regular Expressions", "Regex", "Web Scraping",
+    "ETL", "Data Structures and Algorithms", "DSA"
+  ],
+  "Soft Skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Time Management", "Project Management",
+    "Adaptability", "Collaboration", "Creativity", "Attention to Detail",
+    "Analytical Skills", "Decision Making", "Conflict Resolution",
+    "Presentation Skills", "Mentoring", "Stakeholder Management"
+  ]
+}
